@@ -48,6 +48,10 @@ npm install
 npm run start
 ```
 
+### Important Rule
+
+Is necessary send the username at the requisition headers.
+
 ### Availabe endpoints
 
 [GET]/list-items
